@@ -1,0 +1,15 @@
+{
+  "name": "uniapp-learn",
+  "version": "0.1.0",
+  "description": "Uni-App学习代码笔记",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-contrib/uniapp-learn.git"
+  },
+  "author": "你好2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agile-contrib/uniapp-learn/issues"
+  },
+  "homepage": "https://github.com/agile-contrib/uniapp-learn#readme"
+}
