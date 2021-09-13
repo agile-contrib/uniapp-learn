@@ -1,25 +1,17 @@
 <template>
-	<view>
-	    
-	</view>
+    <view>
+        <navigator url="../picker-view/picker-view">
+            <button type="primary">内置组件之picker-view</button>
+        </navigator>
+    </view>
 </template>
-
-<script>
-	export default {
-		data() {
-			return {
-				
-			}
-		},
-		onLoad() {
-
-		},
-		methods: {
-
-		}
-	}
-</script>
-
 <style>
-	
+    navigator {
+        margin: 30rpx;
+        height: 88rpx;
+    }
+
+    button {
+        border-radius: 4rpx;
+    }
 </style>
